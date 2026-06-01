@@ -24,6 +24,12 @@
 .DS_Store
 *.pem
 
+# AutoFounder generated run state
+/.runs/
+
+# Milestone-history staging (scaffolding for scripts/milestone-history.sh)
+/.history/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
