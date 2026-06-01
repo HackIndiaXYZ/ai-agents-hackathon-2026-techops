@@ -86,5 +86,5 @@ retrieval, generated imagery, SEO, real deploy) is next.
 ## A note on how this was built
 
 This project was built with a little AI assistance. The interesting work is in the
-system design — the agent/blackboard contract, the token engine, and the quality gate — which
+system design, the agent/blackboard contract, the token engine, and the quality gate, which
 stands on its own regardless of how the code was typed.
